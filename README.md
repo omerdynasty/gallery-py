@@ -27,17 +27,17 @@ This project creates a simple photo gallery where images are displayed with thum
    Run the following Python script:
 
    ```bash
-   python script_name.py
+   python main.py
    ```
 
-   This will create a `gallery.html` file and a `thumbs` folder containing the thumbnails. The gallery will be accessible on `http://localhost:8000/`.
+   This will create a `gallery.html` file and a `thumbs` folder containing the thumbnails. The gallery will be accessible on `http://localhost:8000/gallery.html`.
 
 ## Usage
 
 After running the script, the `gallery.html` file will be automatically created. The Python server will start, and you can access the gallery by opening your browser and navigating to:
 
 ```
-http://localhost:8000/
+http://localhost:8000/gallery.html
 ```
 
 The gallery will display images in thumbnails. When you click on a thumbnail, the full-size image will be shown in a modal.
@@ -65,7 +65,7 @@ Feel free to fork this repository and submit issues or pull requests if you have
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [GPL v3](LICENSE).
 
 ---
 
