@@ -66,7 +66,3 @@ Feel free to fork this repository and submit issues or pull requests if you have
 ## License
 
 This project is open-source and available under the [GPL v3](LICENSE).
-
----
-
-This `README.md` file provides the necessary instructions and details for users to easily understand and run your photo gallery project. Let me know if you need further modifications!
