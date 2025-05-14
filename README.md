@@ -42,6 +42,8 @@ http://localhost:8000/gallery.html
 
 The gallery will display images in thumbnails. When you click on a thumbnail, the full-size image will be shown in a modal.
 
+**Important Note: Due to the structure of the code, the gallery is not suitable for live updating, but if you rerun the code, a thumbnail of the newly added photos will be created and added to the gallery.**
+
 ## Configuration
 
 * **Thumbnail Size**: You can adjust the thumbnail size by modifying the following variables in the script:
